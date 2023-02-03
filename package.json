@@ -1,7 +1,7 @@
 {
-    "name": "oscar-md",
-    "version": "1.0.2",
-    "description": "Oscar Multi Device",
+    "name": "saxia-md",
+    "version": "1.0.0",
+    "description": "SAXIA MULTI DEVICE",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -23,7 +23,7 @@
     ],
     "homepage": "Soon",
     "author": {
-        "name": "Jarot"
+        "name": "Kasan"
     },
     "repository": {
         "type": "git",
