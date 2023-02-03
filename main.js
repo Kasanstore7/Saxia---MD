@@ -65,7 +65,7 @@ loadDatabase()
 
 const msgRetryCounterMap = MessageRetryMap => { }
 
-global.authFile = `${opts._[0] || 'oscar'}.data.json`
+global.authFile = `${opts._[0] || 'saxia'}.data.json`
 global.isInit = !fs.existsSync(authFile)
 let { state, saveCreds, saveState} = (global.useMulti) ? useMultiFileAuthState(global.authFile) : useSingleFileAuthState(global.authFile)
 //console.log(typeof state + typeof saveCreds + typeof saveState)
